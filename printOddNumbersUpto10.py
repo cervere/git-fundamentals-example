@@ -2,5 +2,5 @@
 limit = 10
 
 for num in range(limit):
-    if num % 2 == 0:
+    if num % 2 == 1:
         print(num)
